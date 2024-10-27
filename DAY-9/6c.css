@@ -1,0 +1,10 @@
+.heading{
+    text-align: center;
+    color: blue;
+    font-style: oblique;
+}
+.para {
+    color: rgb(47, 110, 17);
+    font-style: italic;
+    font-size: larger;
+}
